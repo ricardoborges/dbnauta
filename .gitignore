@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.nupkg
+
+# Connection strings and secrets
+.env
+.env.*
